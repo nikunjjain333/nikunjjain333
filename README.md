@@ -36,10 +36,6 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' alt="aws" width="15" height="15" /> My Github Stats:
 
-![Nikunj Jain's github stats](https://github-readme-stats.vercel.app/api?username=nikunjjain333&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&count_public=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjjain333&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikunjjain333&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikunjjain333&theme=default)
