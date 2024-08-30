@@ -4,7 +4,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-- 🏦 I'm Software Developer Engineer (SDE I) at Treez Inc. (Treezpay and Swifter).
+- 🏦 I'm Software Developer Engineer (SDE II) at Treez Inc. (Treezpay and Swifter).
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.py**, **.sql**
 - 🧑‍💻 Tech I work on :
