@@ -141,3 +141,11 @@ HTML                     1 repo             ░░░░░░░░░░░░
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/nikunjjain333/nikunjjain333/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nikunjjain333/nikunjjain333/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
